@@ -1,3 +1,3 @@
 # cours_nodejs
 
-https://github.com/jeremythille/cours_nodejs.git
+https://docs.google.com/presentation/d/1wKr_M9QGROQiNLV05ugykYbpjgYxGwdhiC5fbj-KpUk/edit?usp=sharing
